@@ -8,7 +8,7 @@ Linux / Windows で動作する、AviUtl ライクな動画編集ソフトです
 
 現在はプレアルファ版です。
 
-## [Madoka Launcher](https://madoka.neoutl.org)
+## [Madoka Launcher](https://madoka.taisho-guy.org)
 
 Linux / Windows で動作する、ゆっくりMovieMaker 4 、AviUtl （ExEdit0 / ExEdit2）向けのランチャーです。
 
