@@ -6,6 +6,8 @@ Team NeoUtl は多くの人に自由で快適な動画編集体験を提供し�
 
 Linux / Windows で動作する、AviUtl ライクな動画編集ソフトです。
 
+Qt6 版（NeoQtl）や iced 版等も非公開で試作されています。
+
 現在はプレアルファ版です。
 
 ## [Madoka Launcher](https://madoka.taisho-guy.org)
@@ -14,7 +16,9 @@ Linux / Windows で動作する、ゆっくりMovieMaker 4 、AviUtl （ExEdit0 
 
 各ソフトのインスタンスを複数管理、プラグインや拡張等のバージョンを管理することができます。
 
-## [Artisan Mod Loader]
+アルファ版を公開しています。
+
+## Artisan Mod Loader
 
 現在非公開で開発中の、AviUtl ExEdit2 、YMM4 を抽象化する API です。
 
