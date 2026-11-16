@@ -22,6 +22,12 @@ Linux / Windows で動作する、ゆっくりMovieMaker 4 、AviUtl （ExEdit0 
 
 [公式サイト](https://madoka.taisho-guy.org) / [リポジトリ](https://github.com/TeamNeoUtl/Madoka-Launcher)
 
+## contixion
+
+大量の要素の高速描画に特化した、Adobe Spectrum 2 準拠の GUI クレートです。
+
+非公開で開発されています。NeoUtl の開発を再開すると同時に公開します。
+
 ## Artisan Mod Loader
 
 現在非公開で開発中の、AviUtl ExEdit2 、YMM4 を抽象化する API です。
